@@ -3,7 +3,7 @@ Learning javascript using vue js (Created Jan 28, 2017)
 
 ## Motivation
 
-Document the steps I am taking to learn javascript development. I am relatively new to javascript and this im my journey
+Document the steps I am taking to learn javascript development. I am relatively new to javascript and this my journey
 Everything here should be considered as my development journal and nothing more. Specifically, please do not take 
 anything here as being a best practice or a step-by-step guide.   
 
@@ -16,10 +16,7 @@ and techniques.
     
 ## Steps Overview
 
-1. Step 0 - Install initial development environment for javascript development suitable for large projects
-  Generated code in ./hello_vue_cli
-2. Step 1 - Initial vue.js hello word (js only) and mock application layout using html / css.
-  Code contained in ./proto1 
+1. Step 0 - Install initial development environment for javascript development suitable for large projects.
 
 ### Step 0 Goals:
 
